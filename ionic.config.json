@@ -1,0 +1,7 @@
+{
+  "name": "swipe-tabs-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
